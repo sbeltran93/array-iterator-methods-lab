@@ -1,0 +1,1 @@
+parseInt is to covert number into strings or the other way around
